@@ -1,0 +1,11 @@
+{
+  "name": "resinio_test",
+  "version": "0.0.0",
+  "description": "resin.io + johnny five test",
+  "main": "server.js",
+  "author": "Bryan Hughes <bryan@theoreticalideations.com>",
+  "license": "MIT",
+  "dependencies": {
+    "johnny-five": "latest"
+  }
+}
