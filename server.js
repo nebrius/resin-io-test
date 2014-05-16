@@ -1,5 +1,5 @@
-var //five = require("johnny-five"),
-    board = new five.Board();
+/*var five = require("johnny-five"),
+    board = new five.Board();*/
 
 console.log('Running as ' + process.env.USER);
 console.log('booting');
