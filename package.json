@@ -1,9 +1,13 @@
 {
   "name": "resinio_test",
   "version": "0.0.0",
-  "description": "resin.io + johnny five test",
+  "description": "resin.io + Johnny-Five test",
   "main": "server.js",
   "author": "Bryan Hughes <bryan@theoreticalideations.com>",
+  "contributors": [
+    { "name": "Bryan Hughes", "email": "<bryan@theoreticalideations.com>" },
+    { "name": "Flarnie M."}
+  ],
   "license": "MIT",
   "dependencies": {
     "johnny-five": "latest"
