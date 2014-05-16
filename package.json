@@ -4,5 +4,8 @@
   "description": "resin.io + johnny five test",
   "main": "server.js",
   "author": "Bryan Hughes <bryan@theoreticalideations.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "johnny-five": "latest"
+  }
 }
